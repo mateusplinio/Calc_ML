@@ -117,4 +117,4 @@ def main(pagina: ft.Page):
         ft.Column([titulo, pl, ip, tml, tp, ps, fg, calcular, vf, vma, vmr])
     )
 
-ft.app(target=main)
+ft.app(target=main, view=ft.WEB_BROWSER)
