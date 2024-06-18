@@ -1,3 +1,4 @@
+pip install openpyxl pandas flet
 import openpyxl
 import flet as ft
 import pandas as pd
